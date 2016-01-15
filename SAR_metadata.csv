@@ -1,0 +1,30 @@
+TableName,FieldName,Description
+ISLAND,PAPER,ID for publication containing the source data (linking to PAPER and STUDY tables)
+ISLAND,STUDYREP,ID for data set (and possibly replication) within a publication containing the source data (linking to STUDY table)
+ISLAND,ID,ID for island within a study of a publication (usually the order of mention)
+ISLAND,S,Species richness (can be 0)
+ISLAND,Akm2,Area in square kilometers
+ISLAND,Habdiv,"Habitat diversity, number of unique habitat types (count, i.e. not other derived metric such as entropy)"
+ISLAND,Elevkm,"Elevation (above see level, meters)"
+ISLAND,Dmainlkm,"Straight-line distance to mainland, in kilometers"
+ISLAND,Dlandkm,"Distance to the nearest island or mainland whichever is less, in kilometers"
+ISLAND,Dlargelandkm,"Distance to the nearest 'larger' island, in kilometers"
+PAPER,PAPER,ID for publication containing the source data (linking to ISLAND and STUDY tables)
+PAPER,Solymos_Lele_2012_GEB,"Dummy variable indicating publications used in Solymos and Lele 2012, GEB"
+PAPER,Not_in_KAT,Publication not listed in Triantis et al. 2012
+PAPER,KAT_ref_no,Reference number to publication in Triantis et al. 2012
+PAPER,CITATION,Full citation of the publication
+STUDY,STUDYREP,ID for data set (and possibly replication) within a publication containing the source data (linking to STUDY table)
+STUDY,STUDY,ID for data set within a publication containing the source data (linking to STUDY table)
+STUDY,PAPER,ID for publication containing the source data (linking to PAPER and STUDY tables)
+STUDY,Repeat,ID for repeated survey within study
+STUDY,Person,Person who entered the data
+STUDY,Date_of_entry,Date of data entry
+STUDY,Taxon,Coarse taxonomic group based on Taxon_orig
+STUDY,Taxon_orig,Taxonomic group as described in the original reference
+STUDY,Island_type,"Type of island (nonmarine, landbridge, oceanic)"
+STUDY,Island_type_orig,Type of island as described in the original reference
+STUDY,Matrix,Type of surrounding matrix as described in the original reference
+STUDY,Latitude_nearEqator,Latitude in degrees close to the Equator (if it is at Equator than 0)
+STUDY,Latitude_nearPole,Latitude in degrees close to the Poles
+STUDY,Location,Location as described in the original reference
