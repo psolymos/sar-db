@@ -1,12 +1,18 @@
-# Global species–area relationships (SAR) database
+# Global speciesâ€“area relationships (SAR) database
 
-Data set based on the meta-analysis of species–area relationships (SARs) 
+[![DOI](https://zenodo.org/badge/13424/psolymos/sar-db.svg)](https://zenodo.org/badge/latestdoi/13424/psolymos/sar-db)
+
+Data set based on the meta-analysis of speciesâ€“area relationships (SARs) 
 conducted by Solymos & Lele 2012.
 
 The data set has been extended since, additions made by P. Solymos and A. Nagy. 
 
-**When using the data, please cite Solymos & Lele 2012.**
+**When using the data, please cite Solymos & Lele 2012 alongside the data citation given below.**
+
+## Citing the data
+
+SÃ³lymos, P. & Nagy, A. (2016). Global speciesâ€“area relationships (SAR) database. Version 2.0. DOI URL: [https://zenodo.org/badge/latestdoi/13424/psolymos/sar-db](https://zenodo.org/badge/latestdoi/13424/psolymos/sar-db).
 
 ## References
 
-Sólymos, P. & Lele, S. R. (2012): Global pattern and local variation in species-area relationships. Global Ecology and Biogeography, 21: 109-120.
+SÃ³lymos, P. & Lele, S. R. (2012): Global pattern and local variation in species-area relationships. Global Ecology and Biogeography, 21: 109-120.
