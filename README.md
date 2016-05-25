@@ -11,7 +11,7 @@ The data set has been extended since, additions made by P. Solymos and A. Nagy.
 
 ## Citing the data
 
-Sólymos, P. & Nagy, A. (2016). Global species–area relationships (SAR) database. Version 2.0. DOI URL: [https://zenodo.org/badge/latestdoi/13424/psolymos/sar-db](https://zenodo.org/badge/latestdoi/13424/psolymos/sar-db).
+Sólymos, P. & Nagy, A. (2016). Global species–area relationships (SAR) database. Version 2.0. DOI: [10.5281/zenodo.53081](https://zenodo.org/badge/latestdoi/13424/psolymos/sar-db).
 
 ## References
 
