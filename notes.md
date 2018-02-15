@@ -1,6 +1,6 @@
 # How to restructure SAR db
 
-4 csv files are not sutbale for:
+4 csv files are not suitable for:
 
 - entry level version control
 - cannot integrate other APIs
